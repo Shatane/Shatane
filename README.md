@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shatane
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning phython
-- 💞️ I’m looking to collaborate on web development 
+- 👀 I’m interested in Blockchain developmwnt
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on Blockchain development 
 - 📫 How to reach me http://twitter.com/dip_creator
 
 <!---
